@@ -1,0 +1,98 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0ede4;
+  color: #222222;
+  margin: 0;
+  padding: 0;
+}
+
+
+.cabecalho {
+  background-color: #a3140f;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.cabecalho h1 {
+  font-size: 48px;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.cabecalho p {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+
+.menu {
+  background-color: #222222;
+  text-align: center;
+  padding: 15px;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.menu a:hover {
+  color: #ffcc00;
+}
+
+
+.secao {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.secao h2 {
+  color: #a3140f;
+  text-transform: uppercase;
+  border-bottom: 3px solid #a3140f;
+  padding-bottom: 8px;
+  margin-bottom: 20px;
+}
+
+
+.caixa {
+  background-color: white;
+  border: 1px solid #cccccc;
+  border-left: 5px solid #a3140f;
+  padding: 15px 20px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.caixa h3 {
+  color: #222222;
+  margin-top: 0;
+}
+
+.caixa p {
+  line-height: 1.5;
+}
+
+.caixa ul {
+  padding-left: 20px;
+}
+
+.caixa li {
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+
+.rodape {
+  background-color: #222222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+}
